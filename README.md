@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Guleria</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right"alt="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-student&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-student" /> </p>
 
 - 🌱 I’m currently learning **React.js**
