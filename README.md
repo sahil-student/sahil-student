@@ -1,3 +1,4 @@
+![logo](https://github.com/sahil-student/sahil-student/blob/main/giphy....gif)
 <h1 align="center">Hi 👋, I'm Sahil Guleria</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
